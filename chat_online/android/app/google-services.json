@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "34870052579",
+    "firebase_url": "https://lemonzapv1.firebaseio.com",
+    "project_id": "lemonzapv1",
+    "storage_bucket": "lemonzapv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34870052579:android:77d4d369766452cf",
+        "android_client_info": {
+          "package_name": "br.com.lmz.chat_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34870052579-sff0q4jcvtrhcpi5flfffvf8rddhde8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.lmz.chat_online",
+            "certificate_hash": "ea933c2ac0ca2c9276e34076bbd9ef3dfb92c841"
+          }
+        },
+        {
+          "client_id": "34870052579-5o54agv92p6ipmsksso5dn7ds2d4b6f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwY_eBGCFoO9kKXk8vISWRV4ktbMVTwyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34870052579-5o54agv92p6ipmsksso5dn7ds2d4b6f4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
