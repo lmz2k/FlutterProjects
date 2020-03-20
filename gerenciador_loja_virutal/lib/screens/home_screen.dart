@@ -4,6 +4,7 @@ import 'package:flutter_speed_dial/flutter_speed_dial.dart';
 import 'package:gerenciadorlojavirutal/blocs/orders_bloc.dart';
 import 'package:gerenciadorlojavirutal/blocs/user_bloc.dart';
 import 'package:gerenciadorlojavirutal/tabs/orders_tab.dart';
+import 'package:gerenciadorlojavirutal/tabs/products_tab.dart';
 import 'package:gerenciadorlojavirutal/tabs/users_tab.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -75,9 +76,7 @@ class _HomeScreenState extends State<HomeScreen> {
               children: <Widget>[
                 UserTab(),
                 OrdersTab(),
-                Container(
-                  color: Colors.green,
-                )
+                ProductsTab()
               ],
             ),
           ),
