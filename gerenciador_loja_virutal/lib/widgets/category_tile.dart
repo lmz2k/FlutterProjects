@@ -25,7 +25,9 @@ class CategoryTile extends StatelessWidget {
 
             onTap: (){
 
-              showDialog(context: context, builder: (context) => EditCategoryDialog());
+              showDialog(context: context, builder: (context) => EditCategoryDialog(
+                category: doc,
+              ));
 
             },
             child: CircleAvatar(
